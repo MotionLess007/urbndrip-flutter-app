@@ -1,6 +1,6 @@
 # urbndrip_app
 
-A new Flutter project.
+Clothing Shop
 
 ## Getting Started
 
